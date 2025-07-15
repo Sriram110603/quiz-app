@@ -25,11 +25,6 @@ A fun and educational **India-themed Quiz Application** built using **HTML, CSS,
 
 ---
 
-## 🖼️ Preview
-
-> Add a screenshot or GIF of the quiz in action here
-
----
 
 ## 🚀 How to Run
 
